@@ -1,2 +1,2 @@
-# discord-hokking
+# discord-hooking
 Hook from bdsx to discord
